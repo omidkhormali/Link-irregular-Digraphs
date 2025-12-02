@@ -12,7 +12,7 @@ pip install networkx --break-system-packages
 python link_irregular_search.py
 ```
 
-Searches for link-irregular tournaments on n = 6 to 499 vertices.
+Searches for link-irregular tournaments on n = 6 to 100 vertices.
 
 ## Methods
 
